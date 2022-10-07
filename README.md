@@ -1,2 +1,2 @@
 # leetcodeSolutions
-Solutions of leetcode's challenges I attended .
+Solutions of leetcode's challenges I solved .
